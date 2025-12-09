@@ -24,7 +24,7 @@ She sees through sound, moves through silence, and feeds on fear.
 
 The house you wake up in is massive, cold, and strangely alive.  
 Once a **research facility disguised as a mansion**, it was abandoned after a failed experiment that attempted to send human consciousness through radio waves.  
-When the signal died, something came back instead.
+When the signal died, something came back instead.  
 
 Now the air itself feels wrong — time flickers, lights hum, and reality bends as static fills your ears.  
 Somewhere deep in the mansion, **Zuzuka waits**, drawn to your every move.
