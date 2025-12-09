@@ -14,7 +14,7 @@ In **Hollowbound**, you are trapped in a desolate house where every signal has v
 No network. No radio. No light beyond your flashlight’s faint beam.  
 The mansion creaks with life — as though the walls themselves remember every scream that once echoed within them.
 
-To escape, you must locate **three cursed keys**, each hidden in a different section of the mansion.  
+To escape, you must locate **three cursed keys**, each hidden in a different section of the mansion. 
 But there’s something else here — **Zuzuka** — the creature that rules this hollow space.  
 She sees through sound, moves through silence, and feeds on fear.
 
