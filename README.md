@@ -8,7 +8,7 @@ Every flicker of the light, every step you take, every second of silence — **s
 
 ---
 
-## 🧠 Game Overview
+## 🧠 Game Overview 
 
 In **Hollowbound**, you are trapped in a desolate house where every signal has vanished.  
 No network. No radio. No light beyond your flashlight’s faint beam.  
