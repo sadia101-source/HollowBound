@@ -4,7 +4,7 @@
 You awaken in a **rotting mansion**, surrounded by darkness and static, cut off from the outside world.  
 Your only goal: **collect all three keys and escape before Zuzuka finds you.**
 
-Every flicker of light, every step you take, every second of silence — **she’s listening.**
+Every flicker of the light, every step you take, every second of silence — **she’s listening.**
 
 ---
 
