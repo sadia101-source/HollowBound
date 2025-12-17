@@ -31,7 +31,7 @@ Somewhere deep in the mansion, **Zuzuka waits**, drawn to your every move.
 
 ---
 
-## 💀 The Villain — Zuzuka
+## 💀 The Villain - Zuzuka
 
 Zuzuka is the corrupted remnant of the experiment gone wrong.  
 Once a scientist obsessed with bridging life and death, she’s now nothing more than a rotting echo of sound — her voice distorted and her body half-dead, half-digital.
