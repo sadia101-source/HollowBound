@@ -1,10 +1,10 @@
 # 🕯️ Hollowbound 🧟‍♀️
 
-**Hollowbound** is a first-person **psychological horror escape game** where every sound could save you — or doom you.  
+**Hollowbound** is a first-person **psychological horror escape game** where every sound could save you - or doom you.  
 You awaken in a **rotting mansion**, surrounded by darkness and static, cut off from the outside world.  
 Your only goal: **collect all three keys and escape before Zuzuka finds you.**
 
-Every flicker of the light, every step you take, every second of silence — **she’s listening.**
+Every flicker of the light, every step you take, every second of silence - **she’s listening.**
 
 ---
 
@@ -15,7 +15,7 @@ No network. No radio. No light beyond your flashlight’s faint beam.
 The mansion creaks with life — as though the walls themselves remember every scream that once echoed within them.
 
 To escape, you must locate **three cursed keys**, each hidden in a different section of the mansion. 
-But there’s something else here — **Zuzuka** — the creature that rules this hollow space.  
+But there’s something else here - **Zuzuka** - the creature that rules this hollow space.  
 She sees through sound, moves through silence, and feeds on fear.
 
 ---
